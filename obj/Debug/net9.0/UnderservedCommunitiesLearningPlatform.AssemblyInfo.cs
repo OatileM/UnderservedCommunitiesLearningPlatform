@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnderservedCommunitiesLearningPlatform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6c23916171fca38adc83c08c8d4827e3836aa2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnderservedCommunitiesLearningPlatform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnderservedCommunitiesLearningPlatform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
