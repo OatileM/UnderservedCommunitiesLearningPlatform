@@ -15,5 +15,7 @@ namespace UnderservedCommunitiesLearningPlatform.Models
         [ForeignKey("Module")]
         public string ModuleID { get; set; }
         public Module Module { get; set; }
+
+        public string Mark { get; set; }
     }
 }
