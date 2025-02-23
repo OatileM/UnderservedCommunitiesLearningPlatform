@@ -10,7 +10,6 @@ namespace UnderservedCommunitiesLearningPlatform.Models
         public string? ModuleID { get; set; }
         public string? Name { get; set; }
         public string? Description { get; set; }
-        public string? Mark { get; set; }
 
         [Required]
         [ForeignKey("Teacher")]
