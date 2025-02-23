@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|c:\\.net projects\\2025\\underservedcommunitieslearningplatform\\data\\applicationdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|solutionrelative:data\\applicationdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|c:\\.net projects\\2025\\underservedcommunitieslearningplatform\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|solutionrelative:models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|c:\\.net projects\\2025\\underservedcommunitieslearningplatform\\models\\studentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|solutionrelative:models\\studentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|c:\\.net projects\\2025\\underservedcommunitieslearningplatform\\underservedcommunitieslearningplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|solutionrelative:underservedcommunitieslearningplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|c:\\.net projects\\2025\\underservedcommunitieslearningplatform\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|c:\\.net projects\\2025\\underservedcommunitieslearningplatform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A4E460-D7C0-41F4-9300-522AF00FE874}|UnderservedCommunitiesLearningPlatform.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextcs.cs",
+              "DocumentMoniker": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Data\\ApplicationDbContextcs.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContextcs.cs",
+              "ToolTip": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Data\\ApplicationDbContextcs.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContextcs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:38:57.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnderservedCommunitiesLearningPlatform",
+              "DocumentMoniker": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\UnderservedCommunitiesLearningPlatform.csproj",
+              "RelativeDocumentMoniker": "UnderservedCommunitiesLearningPlatform.csproj",
+              "ToolTip": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\UnderservedCommunitiesLearningPlatform.csproj",
+              "RelativeToolTip": "UnderservedCommunitiesLearningPlatform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T08:38:15.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:20:23.726Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d2f6510a-150a-4f3f-9d7c-8e38622d26f7}"
@@ -18,6 +82,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModule.cs",
+              "DocumentMoniker": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Models\\StudentModule.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModule.cs",
+              "ToolTip": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Models\\StudentModule.cs",
+              "RelativeToolTip": "Models\\StudentModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:18:03.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Models\\Module.cs",
+              "RelativeDocumentMoniker": "Models\\Module.cs",
+              "ToolTip": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Models\\Module.cs",
+              "RelativeToolTip": "Models\\Module.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:02:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\.NET Projects\\2025\\UnderservedCommunitiesLearningPlatform\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:38:40.33Z",
+              "EditorCaption": ""
             }
           ]
         },
