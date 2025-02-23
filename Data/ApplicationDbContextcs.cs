@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using UnderservedCommunitiesLearningPlatform.Models;
 
 namespace UnderservedCommunitiesLearningPlatform.Data
@@ -46,8 +45,3 @@ namespace UnderservedCommunitiesLearningPlatform.Data
         }
     }
 }
-
-
-
-
-
