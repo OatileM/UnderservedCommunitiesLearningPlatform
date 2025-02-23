@@ -7,14 +7,7 @@ namespace UnderservedCommunitiesLearningPlatform.Models
     public class Student : User
     {
         [Required]
-        [Key]
         public string? StudentID { get; set; }
-
-        [Required]
-        [ForeignKey("User")]
-        public string UserID { get; set; }
-
-        public User? User { get; set; }
 
         public string Name { get; set; }
         public string Surname { get; set; }
@@ -44,5 +37,13 @@ namespace UnderservedCommunitiesLearningPlatform.Models
             StudentModules = new List<StudentModule>();
         }
     }
-
 }
+
+
+
+
+
+
+
+
+
