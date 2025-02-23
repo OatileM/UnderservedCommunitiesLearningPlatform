@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace UnderservedCommunitiesLearningPlatform.Models
 {
-    public class Teacher: User
+    public class Teacher : User
     {
 
         [Required]
@@ -41,7 +41,7 @@ namespace UnderservedCommunitiesLearningPlatform.Models
         public Teacher(string userID, string name, string surname, string email, string phone)
         {
             UserID = userID;
-            TeacherID = userID; 
+            TeacherID = userID;
             Name = name;
             Surname = surname;
             Email = email;
