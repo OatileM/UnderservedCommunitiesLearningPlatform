@@ -2,10 +2,9 @@
 
 namespace UnderservedCommunitiesLearningPlatform.Models
 {
-    public interface User
+    public interface  User
     {
         [Key]
         public string UserID { get; set; }
-
     }
 }
